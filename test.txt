@@ -3,4 +3,4 @@ Library           Selenium2Library
 
 *** Test Cases ***
 open
-    open browser    https://www.baidu.com/    gcfawegawegweg
+    open browser    https://www.baidu.com/    gc
