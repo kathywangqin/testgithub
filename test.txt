@@ -3,4 +3,4 @@ Library           Selenium2Library
 
 *** Test Cases ***
 open
-    open browser    https://www.baidu.com/    gc
+    open browser    http://w1.highso.com.cn/indexCourse/indexLogin.do    gc
